@@ -52,5 +52,5 @@ jobs:
       with:
         fetch-depth: 20
         lfs: true
-    - run: echo "Deploying application..."
+    - run: echo "Deploying application on github."
     - run: echo "Application successfully deployed."
